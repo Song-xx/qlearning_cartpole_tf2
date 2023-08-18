@@ -19,8 +19,6 @@ import os
 import pandas as pd
 import time
 
-# try the game
-
 
 def test_CartPole(env, n_episodes, render):
     sum_step = 0
